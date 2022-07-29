@@ -6,6 +6,7 @@ authors = ["Lu Xianghui <xianghui.lu@data-turing.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+Flask = "^2.1.3"
 
 [tool.poetry.dev-dependencies]
 
